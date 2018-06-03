@@ -1,0 +1,16 @@
+Date: Fri, 30 Mar 2018 02:56:24 GMT
+Server: Tengine
+Content-Type: text/html; charset=utf-8
+X-Frame-Options: DENY
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Security-Policy: script-src 'self' 'unsafe-inline' 'unsafe-eval' *.jianshu.com *.jianshu.io api.geetest.com static.geetest.com dn-staticdown.qbox.me zz.bdstatic.com *.google-analytics.com hm.baidu.com push.zhanzhang.baidu.com res.wx.qq.com qzonestyle.gtimg.cn as.alipayobjects.com ;style-src 'self' 'unsafe-inline' *.jianshu.com *.jianshu.io api.geetest.com static.geetest.com ;
+Etag: W/"6935c154b277583a60ccc31cdb59b088"
+Cache-Control: max-age=0, private, must-revalidate
+Set-Cookie: signin_redirect=https%3A%2F%2Fwww.jianshu.com%2Frecommendations%2Fcollections%3Fpage%3D3%26order_by%3Dhot; path=/
+Set-Cookie: locale=zh-CN; path=/
+Set-Cookie: _m7e_session=97a70452a12c20b57a432c94cc4f8858; path=/; expires=Fri, 30 Mar 2018 08:56:24 -0000; HttpOnly
+X-Request-Id: 4f6bc42c-8ce7-4456-9c30-59149e1ba852
+X-Runtime: 0.182894
+Content-Encoding: gzip
+X-Via: 1.1 chengwtong81:5 (Cdn Cache Server V2.0), 1.1 PShbwhjyw5of19:5 (Cdn Cache Server V2.0)
